@@ -5,7 +5,6 @@ Git hub first project
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My personal profile</title>
 </head>
 <body>
      <!-- 1 Main Heading  -->
@@ -38,6 +37,5 @@ Git hub first project
          <li>Play Games.</li>
          <li>Sleep late.</li>
       </ol>
-     
-         </body>
+      </body>
 </html>
